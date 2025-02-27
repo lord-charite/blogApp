@@ -105,7 +105,7 @@ Example:
 show technology
 ```
 
-### Find (Extra Credit)
+### Find
 Searches for posts and comments containing a specific string.
 ```
 find blogName searchString
