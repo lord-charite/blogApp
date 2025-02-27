@@ -1,0 +1,66 @@
+in politique:
+
+  - - - -
+	title: La cuisine française?
+	userName: Marie
+	tags: cuisine, gastronomie, france
+	timestamp: 2018-10-02T11:01:28.425Z
+	permalink: politique.La_cuisine_fran_aise_
+	body:
+	  Un débat sur les traditions culinaires de la France.
+
+    - - - -
+	userName: Sophie
+	permalink: 2018-11-02T11:02:42.966Z
+	comment:
+	  La cuisine française est la meilleure du monde!
+
+      - - - -
+	userName: Claude
+	permalink: 2017-11-02T02:12:18.965Z
+	comment:
+	  Je préfère la cuisine italienne, mais le fromage français est incroyable.
+
+      - - - -
+	userName: Brigitte
+	permalink: 2017-11-02T04:15:05.232Z
+	comment:
+	  **comment deleted**
+
+  - - - -
+	title: Les élections françaises!
+	userName: Pierre
+	tags: politique, france, élections
+	timestamp: 2018-10-02T11:01:28.425Z
+	permalink: politique.Les_lections_fran_aises_
+	body:
+	  Cet article parle des élections et la politique en France.
+
+    - - - -
+	userName: Jean
+	permalink: 2018-10-02T11:02:28.965Z
+	comment:
+	  Je ne suis pas d'accord avec votre analyse politique.
+
+in politique:
+
+  - - - -
+	title: La cuisine française?
+	userName: Marie
+	tags: cuisine, gastronomie, france
+	timestamp: 2018-10-02T11:01:28.425Z
+	permalink: politique.La_cuisine_fran_aise_
+	body:
+	  Un débat sur les traditions culinaires de la France.
+
+    - - - -
+	userName: Sophie
+	permalink: 2018-11-02T11:02:42.966Z
+	comment:
+	  La cuisine française est la meilleure du monde!
+
+      - - - -
+	userName: Claude
+	permalink: 2017-11-02T02:12:18.965Z
+	comment:
+	  Je préfère la cuisine italienne, mais le fromage français est incroyable.

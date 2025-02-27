@@ -1,0 +1,142 @@
+(base) lordchariteigirimbabazi@Lord-Charites-MacBook-Pro mongoapp % find politique "cuisine"
+find: politique: No such file or directory
+find: cuisine: No such file or directory
+(base) lordchariteigirimbabazi@Lord-Charites-MacBook-Pro mongoapp % python lab4.py
+Connected to MongoDB
+post technology "JaneDoe" "The Future of AI" "This article discusses recent advancements in artificial intelligence and machine learning." "AI,machine learning,technology" 2023-05-15T14:30:22.123Z
+
+show technology
+in technology:
+
+  - - - -
+	title: The Future of AI
+	userName: JaneDoe
+	tags: AI, machine learning, technology
+	timestamp: 2023-05-15T14:30:22.123Z
+	permalink: technology.The_Future_of_AI
+	body:
+	  This article discusses recent advancements in artificial intelligence and machine learning.
+
+delete technology 2023-05-16T10:22:33.456Z "AlanTuring" 2023-05-17T08:05:12.345Z
+Error: No post or comment found with permalink: 2023-05-16T10:22:33.456Z
+find politique "cuisine"
+in politique:
+
+  - - - -
+	userName: Sophie
+	permalink: 2018-11-02T11:02:42.966Z
+	comment:
+	  La cuisine française est la meilleure du monde!
+
+  - - - -
+	userName: Sophie
+	permalink: 2018-11-02T11:02:42.966Z
+	comment:
+	  La cuisine française est la meilleure du monde!
+
+  - - - -
+	title: La cuisine française?
+	userName: Marie
+	tags: cuisine, gastronomie, france
+	timestamp: 2018-10-02T11:01:28.425Z
+	permalink: politique.La_cuisine_fran_aise_
+	body:
+	  Un débat sur les traditions culinaires de la France.
+
+      - - - -
+  	userName: Sophie
+  	permalink: 2018-11-02T11:02:42.966Z
+  	comment:
+  	  La cuisine française est la meilleure du monde!
+
+      - - - -
+  	userName: Sophie
+  	permalink: 2018-11-02T11:02:42.966Z
+  	comment:
+  	  La cuisine française est la meilleure du monde!
+
+  - - - -
+	title: La cuisine française?
+	userName: Marie
+	tags: cuisine, gastronomie, france
+	timestamp: 2018-10-02T11:01:28.425Z
+	permalink: politique.La_cuisine_fran_aise_
+	body:
+	  Un débat sur les traditions culinaires de la France.
+
+      - - - -
+  	userName: Sophie
+  	permalink: 2018-11-02T11:02:42.966Z
+  	comment:
+  	  La cuisine française est la meilleure du monde!
+
+      - - - -
+  	userName: Sophie
+  	permalink: 2018-11-02T11:02:42.966Z
+  	comment:
+  	  La cuisine française est la meilleure du monde!
+
+  - - - -
+	userName: Claude
+	permalink: 2017-11-02T02:12:18.965Z
+	comment:
+	  Je préfère la cuisine italienne, mais le fromage français est incroyable.
+
+  - - - -
+	userName: Claude
+	permalink: 2017-11-02T02:12:18.965Z
+	comment:
+	  Je préfère la cuisine italienne, mais le fromage français est incroyable.
+
+comment technology technology.The_Future_of_AI "JohnSmith" "Great article! I think quantum computing will accelerate AI even further." 2023-05-16T09:12:45.789Z
+comment technology 2023-05-16T09:12:45.789Z "AlanTuring" "I agree with John. Quantum computing will revolutionize the field." 2023-05-16T10:22:33.456Z
+show technology
+in technology:
+
+  - - - -
+	title: The Future of AI
+	userName: JaneDoe
+	tags: AI, machine learning, technology
+	timestamp: 2023-05-15T14:30:22.123Z
+	permalink: technology.The_Future_of_AI
+	body:
+	  This article discusses recent advancements in artificial intelligence and machine learning.
+
+      - - - -
+  	userName: JohnSmith
+  	permalink: 2023-05-16T09:12:45.789Z
+  	comment:
+  	  Great article! I think quantum computing will accelerate AI even further.
+
+        - - - -
+    	userName: AlanTuring
+    	permalink: 2023-05-16T10:22:33.456Z
+    	comment:
+    	  I agree with John. Quantum computing will revolutionize the field.
+
+delete technology 2023-05-16T10:22:33.456Z "AlanTuring" 2023-05-17T08:05:12.345Z
+show technology
+in technology:
+
+  - - - -
+	title: The Future of AI
+	userName: JaneDoe
+	tags: AI, machine learning, technology
+	timestamp: 2023-05-15T14:30:22.123Z
+	permalink: technology.The_Future_of_AI
+	body:
+	  This article discusses recent advancements in artificial intelligence and machine learning.
+
+      - - - -
+  	userName: JohnSmith
+  	permalink: 2023-05-16T09:12:45.789Z
+  	comment:
+  	  Great article! I think quantum computing will accelerate AI even further.
+
+        - - - -
+    	userName: AlanTuring
+    	permalink: 2023-05-16T10:22:33.456Z
+    	comment:
+    	  **comment deleted**
+
+
